@@ -4,7 +4,7 @@ SEOTitle: 傅世嘉的博客 | JasonBourne's Blog
 header-img: img/background/fsj-blog-bg-home.jpg
 email: 876228013@qq.com
 description: Do not miss your chance blow.
-#keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+#keyword: "FSJ, FSJ Blog, JasonBourne的博客, fushijia,傅世嘉, software test"
 url: "http://fushijia.github.io"   # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fushijia/fushijia.github.io"    # you code repository
@@ -22,8 +22,6 @@ RSS: false
 #zhihu_username:     qiubaiying
 github_username:    fushijia
 facebook_username:  jasonbourne
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 # Build settings
@@ -59,9 +57,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4   #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: fushijia.github.io    #仓库名称
+  owner: fushijia    #github用户名
+  admin: fushijia
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -87,7 +85,7 @@ service-worker: true
 
 
 # Friends
-#friends: [
+# friends: [
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
